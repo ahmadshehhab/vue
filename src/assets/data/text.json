@@ -1,0 +1,20 @@
+[
+    {
+        "_this":{
+            "en": "this",
+            "ar": "هذا"
+        },
+        "_govemail":{
+            "en": "Goverment Email",
+            "ar": "البريد الالكتروني"
+        },
+        "_weather":{
+            "en": " Weather",
+            "ar": "الطقس"
+        },
+        "_callus":{
+            "en": "Call us",
+            "ar": "إتصل بنا"
+        }
+    }
+]

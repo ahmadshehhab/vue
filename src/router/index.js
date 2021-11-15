@@ -1,11 +1,11 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import Home from '../views/Home.vue'
+import Govemail from '../views/Govemail.vue'
 
 const routes = [
   {
-    path: '/',
-    name: 'Home',
-    component: Home
+    path: '/govemail',
+    name: 'Govemail',
+    component: Govemail
   },
   {
     path: '/about',
